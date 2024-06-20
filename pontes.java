@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class KonigsbergSolver {
+public class Main {
     private static final int Numero_Bairros = 4;
     private static final String[] BAIRROS = {"Parque Estrela Dalva 1", "Parque Estrela Dalva 2", "Parque Estrela Dalva 3", "Parque Estrela Dalva 4"};
 
